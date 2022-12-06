@@ -1,0 +1,98 @@
+/****************** GOOGLE BOX ******************/
+.align {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    display: block;
+}
+
+/****************** SEARCHING BOX ******************/
+.search {
+    display: block;
+    background-color: rgb(231, 231, 231);
+    /* margin-left: 250px; */
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    height: 100px;
+}
+
+/****************** SEARCHING BUTTON ******************/
+.btn {
+    background-color: white;
+    border-color: rgb(65, 64, 64);
+    border-style: solid;
+    border-width: 1px;
+    width: 400px;
+    height: 20px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+/****************** GOOGLE SEARCH ******************/
+.gs {
+    background-color: rgb(238, 238, 238);
+    border-color: rgb(65, 64, 64);
+    border-style: solid;
+    border-width: 1px;
+    width: 150px;
+    height: 20px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 2px;
+    margin-left: 350px;
+}
+
+/****************** LUCKY SEARCH ******************/
+.fl {
+    background-color: rgb(238, 238, 238);
+    border-color: rgb(65, 64, 64);
+    border-style: solid;
+    border-width: 1px;
+    width: 150px;
+    height: 20px;
+    border-radius: 5px;
+    float: left;
+}
+
+/****************** LUCKY SEARCH ******************/
+.boxx {
+    background-color: rgb(126, 229, 218);
+
+}
+
+.container1 {
+    background-color: rgb(126, 229, 218);
+    float: left;
+    margin-left: 212px;
+    width: 396px;
+    margin-right: 5px;
+    margin-top: 5px;
+    text-align: center;
+    height: 120px;
+    padding-top: 10px;
+
+}
+
+.container2 {
+    background-color: rgb(112, 204, 194);
+    float: left;
+    width: 198px;
+    margin-right: 5px;
+    margin-top: 5px;
+    text-align: center;
+    height: 120px;
+    padding-top: 10px;
+}
+
+.container3 {
+    background-color: rgb(98, 179, 170);
+    float: left;
+    width: 396px;
+    margin-top: 5px;
+    height: 130px;
+}
+
+.clear {
+    clear: both;
+}
